@@ -11,13 +11,13 @@ I'm a **Data Scientist** and **Economist**, currently pursuing a Master's degree
 
 ## Likes
 
-📊 Data analysis to find patterns and answers in the chaos of information.
-📚 Constantly learning about new technologies and methodologies in data science.
-🌍 Traveling and experiencing new cultures and perspectives.
-🎨 Exploring the intersection between data science and creativity, applying data visualizations to tell compelling stories.
-⚽ Enjoying football, both watching and discussing the beautiful game.
-📈 Delving into macroeconomics to understand global economic trends and policies.
-🎮 Engaging with video games, appreciating both their entertainment and technological artistry.
+- 📊 Data analysis to find patterns and answers in the chaos of information.
+- 📚 Constantly learning about new technologies and methodologies in data science.
+- 🌍 Traveling and experiencing new cultures and perspectives.
+- 🎨 Exploring the intersection between data science and creativity, applying data visualizations to tell compelling stories.
+- ⚽ Enjoying football, both watching and discussing the beautiful game.
+- 📈 Delving into macroeconomics to understand global economic trends and policies.
+- 🎮 Engaging with video games, appreciating both their entertainment and technological artistry.
 
 ## Background
 
