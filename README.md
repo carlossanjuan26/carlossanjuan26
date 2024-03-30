@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello, I'm Carlos San Juan 
+
+## About Me
+
+I'm a **Data Scientist** and **Economist**, currently pursuing a Master's degree in **Computational Social Science** at Universidad Carlos III de Madrid (UC3M). Specializing in data analysis and statistical modeling, I have a solid foundation in **R**, **Python**, and **SQL**, enabling me to extract valuable insights and make accurate predictions from large datase
+
+## Recent Projects
+
+- **Harry Potter- Text Mining Prohect**: Text Mining course project exploring the narrative arc of the Harry Potter movie scripts. [https://github.com/carlossanjuan26/text-mining-harry-potter-class-project](#)
+- **Spotify API**: This project leverages the Spotify API to conduct sentiment analysis, uncovering the emotional trends within music selections. [https://github.com/carlossanjuan26/Spotify-Api](#)
 
 <!--
 **carlossanjuan26/carlossanjuan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
