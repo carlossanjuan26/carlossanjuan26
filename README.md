@@ -11,12 +11,12 @@ I'm a **Data Scientist** and **Economist**, currently pursuing a Master's degree
 
 ## Professional Experience
 
-Havas - Data Scientis Trainee
+- **Havas** - Data Scientis Trainee
 January 2024  - Present
 Implemented predictive models that enhanced decision-making processes, utilizing advanced statistical techniques and data visualization tools.
 
 
-Banco de España - Data Analyst
+- **Banco de España** - Data Analyst
 October 2022  - June 2023
 Engaged in comprehensive economic data analysis, contributing to pivotal reports on national economic trends.
 
