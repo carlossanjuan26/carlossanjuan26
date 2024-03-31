@@ -1,4 +1,4 @@
-# Hello, I'm Carlos San Juan 
+# Hello, I'm Carlos San Juan 👋🏼
 
 ## About Me
 
