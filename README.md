@@ -9,6 +9,17 @@ I'm a **Data Scientist** and **Economist**, currently pursuing a Master's degree
 - **Harry Potter- Text Mining Prohect**: Text Mining course project exploring the narrative arc of the Harry Potter movie scripts. [https://github.com/carlossanjuan26/text-mining-harry-potter-class-project](#)
 - **Spotify API**: This project leverages the Spotify API to conduct sentiment analysis, uncovering the emotional trends within music selections. [https://github.com/carlossanjuan26/Spotify-Api](#)
 
+## Professional Experience
+
+Havas - Data Scientis Trainee
+January 2024  - Present
+Implemented predictive models that enhanced decision-making processes, utilizing advanced statistical techniques and data visualization tools.
+
+
+Banco de España - Data Analyst
+October 2022  - June 2023
+Engaged in comprehensive economic data analysis, contributing to pivotal reports on national economic trends.
+
 ## Likes
 
 - 📊 Data analysis to find patterns and answers in the chaos of information.
